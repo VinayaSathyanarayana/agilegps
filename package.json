@@ -80,7 +80,7 @@
     "rethink-handle-uncaught": "^1.0.0",
     "rethinkdbdash": "^2.3.27",
     "setimmediate": "^1.0.5",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.0.4",
     "socketio-sticky-session": "^0.4.2",
     "spdy": "^3.4.4",
